@@ -24,3 +24,6 @@ h3 {
 .selected {
     color: green;
 }
+.image-text {
+    text-align: center;
+}

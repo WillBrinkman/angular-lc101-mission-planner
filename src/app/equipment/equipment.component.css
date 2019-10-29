@@ -22,5 +22,9 @@ h3 {
     font-style: italic;
     color: red;
 }
-
+.removeButton {
+    font-family: "Open Sans";
+    background: red;
+    font-size: 0.5em;
+}
 /* Add the 'nearMaxMass' class style here: */
